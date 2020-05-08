@@ -7,7 +7,7 @@ metadata:
 spec:
   replicaCount: 1
   image:
-    repository: docker-registry.default.svc:5000/modresortswar/modresortswar
+    repository: docker-registry.default.svc:5000/va-demo/vademo
     tag: latest
     pullPolicy: IfNotPresent
     license: ""
